@@ -36,7 +36,7 @@ Data Handling with ArrayList
 
 🚀 How to Run the Project
 🪜 Step 1: Clone or Download the Repository
-git clone https://github.com/yourusername/StudentManagementSystem.git
+git clone https://github.com/manikantayalla72/student-management-system-.git
 
 🪜 Step 2: Open in an IDE
 
